@@ -1,4 +1,7 @@
-### Hi there 👋
+### Olá eu me chamo kaique tenho 25 anos, estou no processo de mudança de carreira e estou a procura de uma oportunidade de ingressar na area de desenvolvimento web,
+tenho conhecimento em JavaScrip , React , SQL , Python e estou buscando conhecimento em Django.
+  Sou umna pessoa muito Proativa e que sempre busca aprender cada vez mais , tenho uma boa comunicaçao, facilidade em trabalhar em equipe  , uma facilidade em aprender e me desenvolver .
+  Caso queira entrar em contato segue o link do meu linkedin: https://www.linkedin.com/in/kaiquefeltrimcandido/
 
 <!--
 **kaiquefeltrim/kaiquefeltrim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
