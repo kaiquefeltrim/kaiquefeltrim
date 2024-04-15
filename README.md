@@ -1,19 +1,7 @@
-### Olá eu me chamo kaique tenho 25 anos, estou no processo de mudança de carreira e estou a procura de uma oportunidade de ingressar na area de desenvolvimento web,
-tenho conhecimento em JavaScrip , React , SQL , Python e estou buscando conhecimento em Django.
-  Sou umna pessoa muito Proativa e que sempre busca aprender cada vez mais , tenho uma boa comunicaçao, facilidade em trabalhar em equipe  , uma facilidade em aprender e me desenvolver .
-  Caso queira entrar em contato segue o link do meu linkedin: https://www.linkedin.com/in/kaiquefeltrimcandido/
-
-<!--
-**kaiquefeltrim/kaiquefeltrim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Olá! Eu sou o Kaique, um entusiasta da tecnologia em transição de carreira, buscando oportunidades empolgantes na área de desenvolvimento web.
+🎓 Tenho 25 anos e estou comprometido em aprimorar minhas habilidades técnicas.
+💻 Possuo conhecimento em JavaScript, React, SQL, Python, e estou atualmente ampliando meu domínio em Django.
+🌱 Sou apaixonado por aprendizado contínuo e sempre busco novos desafios para me desenvolver profissionalmente.
+👥 Sou conhecido por minha proatividade, habilidades de comunicação e capacidade de trabalhar em equipe de forma eficaz.
+📧 Se você deseja se conectar ou saber mais sobre minha jornada, fique à vontade para me contatar pelo LinkedIn.
+Estou animado para explorar oportunidades e contribuir para projetos inovadores na área de desenvolvimento web!
