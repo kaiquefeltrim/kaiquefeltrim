@@ -1,4 +1,4 @@
-### Olá! Eu sou o Kaique, um entusiasta da tecnologia em transição de carreira, buscando oportunidades empolgantes na área de desenvolvimento web.
+### Olá! Eu sou o Kaique, um estudante da tecnologia em transição de carreira, buscando oportunidades empolgantes na área de desenvolvimento web.
 
 🎓 Tenho 25 anos e estou comprometido em aprimorar minhas habilidades técnicas.
 
